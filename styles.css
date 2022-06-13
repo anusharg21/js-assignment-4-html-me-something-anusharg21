@@ -1,1 +1,29 @@
 /* Write your CSS here! */
+body{
+    margin : 8px;
+    padding: 0px 100px 100px 100px;
+    display : block;
+    background-color:lavenderblush;
+
+}
+#mainHeading{
+color:  red;
+}
+#alignMargin{
+    text-align: left;
+}
+#testP.funParagraph{
+    color : green;
+}
+.fontSize{
+    font-size:15px;
+}
+.fontFamily{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.marginLeft{
+    margin-left: 50;
+}
+.color{
+    color:brown;
+}
